@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankAddin", "BlankAddin\BlankAddin.csproj", "{B9BA96A9-7BF1-4D52-B08B-4A79FCB92E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidDna.WpfAddIn", "SolidDna.WpfAddIn\SolidDna.WpfAddIn.csproj", "{816F673A-579A-45A6-8C0E-D1D80A32A4D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngelSix.SolidDna", "solidworks-api-develop\SolidDna\AngelSix.SolidDna\AngelSix.SolidDna.csproj", "{9C059F0F-F0BF-4914-A58A-1C2329CB4430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidDna.CustomProperties", "SolidDna.CustomProperties\SolidDna.CustomProperties.csproj", "{CBC711EB-4A23-4C11-98E8-D088A4CBDCC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BA96A9-7BF1-4D52-B08B-4A79FCB92E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BA96A9-7BF1-4D52-B08B-4A79FCB92E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BA96A9-7BF1-4D52-B08B-4A79FCB92E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BA96A9-7BF1-4D52-B08B-4A79FCB92E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816F673A-579A-45A6-8C0E-D1D80A32A4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816F673A-579A-45A6-8C0E-D1D80A32A4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816F673A-579A-45A6-8C0E-D1D80A32A4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816F673A-579A-45A6-8C0E-D1D80A32A4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C059F0F-F0BF-4914-A58A-1C2329CB4430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C059F0F-F0BF-4914-A58A-1C2329CB4430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C059F0F-F0BF-4914-A58A-1C2329CB4430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C059F0F-F0BF-4914-A58A-1C2329CB4430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC711EB-4A23-4C11-98E8-D088A4CBDCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC711EB-4A23-4C11-98E8-D088A4CBDCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC711EB-4A23-4C11-98E8-D088A4CBDCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC711EB-4A23-4C11-98E8-D088A4CBDCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9EA018-3AA8-483A-B59F-FC7995441724}
+	EndGlobalSection
+EndGlobal
